@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippdtdhe-auditlog'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01686C85130C439C95A38B07696D8FB9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B8935C0A6184C76B3668DA302A78058 }}
